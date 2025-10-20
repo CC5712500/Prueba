@@ -12,3 +12,5 @@ else
 	echo " ok, no hay problema"
 
 fi
+#la carpeta es  DAILYGIT
+
