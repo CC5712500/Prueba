@@ -1,0 +1,14 @@
+#!/bin/bash
+
+read -p "Hola buenos dias, ingresa tu nombre" nombre
+echo "Buenos dias $nombre "
+read -p "Te gustaria continuar con la conversacion" resp
+
+resp=${resp,,}
+
+if [[ "$resp" = "si" ]]; then
+	echo "ok este es un ejemplo "
+else 	
+	echo " ok, no hay problema"
+
+fi
