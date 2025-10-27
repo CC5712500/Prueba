@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 holi subir
+=======
+echo "este es un archivo que se subira a git por primera vez"
+
+>>>>>>> b015e73 (26oct)
